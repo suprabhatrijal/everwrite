@@ -43,10 +43,9 @@ The app can detect drawn objects using image recognition technology and display 
 
 This project was built using the following software and libraries:
 
-* Twilio
-* OpenAI API
-* USDA API
-* Google Cloud Vision API
+* [Flutter](https://docs.flutter.dev/)
+* [DART](https://dart.dev/tools/jetbrains-plugin)
+* [Google Cloud Vision API](https://cloud.google.com/vision)
 
 ## License
 
