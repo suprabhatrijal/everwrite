@@ -8,14 +8,19 @@ This is a Flutter application that allows users to draw on multiple sheets of pa
     git clone https://github.com/suprabhatrijal/everwrite
     ```
 
-2. Install Flutter if you haven't already, here is the [official installation page](https://docs.flutter.dev/get-started/install)
+2. Download the Google Cloud Vision API JSON file.
 
-3. Connect your device or start up an emulator:
+    * Download the Google Cloud Vision API file as cred.json and place it in the project main directory.
+
+3. Install Flutter if you haven't already, here is the [official installation page](https://docs.flutter.dev/get-started/install)
+
+4. Connect your device or start up an emulator:
 
     - For physical devices, make sure USB debugging is enabled and connect your device to your computer with a USB cable.
     - For emulators, you can create one using Android Studio or Visual Studio Code.
+    
 
-4. Run `flutter run` in the project directory:
+5. Run `flutter run` in the project directory:
     - Open your terminal or command prompt and navigate to the project directory.
     - Type flutter run and hit enter. The app should compile and launch on your device or emulator.
 
