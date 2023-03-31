@@ -21,13 +21,6 @@ void main() async {
     DeviceOrientation.landscapeRight,
     DeviceOrientation.landscapeLeft,
   ]);
-  // if (kIsWeb) {
-  //   // Increase Skia cache size to support bigger images.
-  //   const int megabyte = 1000000;
-  //   SystemChannels.skia.invokeMethod('Skia.setResourceCacheMaxBytes', 512 * megabyte);
-  //   // TOD: cant' await on invokeMethod due to https://github.com/flutter/flutter/issues/77018  so awaiting on Future.delayed instead.
-  //   await Future<void>.delayed(Duration.zero);
-  // }
   runApp(MainApp());
 }
 
