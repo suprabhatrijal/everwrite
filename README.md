@@ -19,7 +19,7 @@ This is a Flutter application that allows users to draw on multiple sheets of pa
     - Open your terminal or command prompt and navigate to the project directory.
     - Type flutter run and hit enter. The app should compile and launch on your device or emulator.
 
-Note: You might need to run `flutter doctor` first to check if all necessary dependencies are installed and to configure your development environment. Follow the instructions provided by `flutter doctor` to resolve any issues.
+*Note*: You might need to run `flutter doctor` first to check if all necessary dependencies are installed and to configure your development environment. Follow the instructions provided by `flutter doctor` to resolve any issues.
 
 
 ## Features
