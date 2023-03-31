@@ -1,5 +1,5 @@
 # EverWrite
-This is a Flutter application that allows users to draw on multiple sheets of paper using different colors and pen sizes. It also has the ability to erase, change the background color, take screenshots and use image recognition technology to detect drawn objects.
+This is a Flutter application that allows users to draw on multiple sheets of paper using different colors and pen sizes. It also has the ability to erase, change the background color, take screenshots and use image recognition technology to detect and transcribe handwritten text.
 
 ## Installation
 
