@@ -45,6 +45,7 @@ This project was built using the following software and libraries:
 
 * [Flutter](https://docs.flutter.dev/)
 * [DART](https://dart.dev/tools/jetbrains-plugin)
+* [Android Studio](https://developer.android.com/studio)
 * [Google Cloud Vision API](https://cloud.google.com/vision)
 
 ## License
