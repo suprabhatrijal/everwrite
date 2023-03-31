@@ -10,7 +10,7 @@ This is a Flutter application that allows users to draw on multiple sheets of pa
 
 2. Download the Google Cloud Vision API JSON file.
 
-    * Download the Google Cloud Vision API file as cred.json and place it in the project main directory.
+    * Name the file cred.json and place it in the project main directory.
 
 3. Install Flutter if you haven't already, here is the [official installation page](https://docs.flutter.dev/get-started/install)
 
@@ -18,7 +18,7 @@ This is a Flutter application that allows users to draw on multiple sheets of pa
 
     - For physical devices, make sure USB debugging is enabled and connect your device to your computer with a USB cable.
     - For emulators, you can create one using Android Studio or Visual Studio Code.
-    
+
 
 5. Run `flutter run` in the project directory:
     - Open your terminal or command prompt and navigate to the project directory.
