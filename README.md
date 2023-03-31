@@ -8,9 +8,10 @@ This is a Flutter application that allows users to draw on multiple sheets of pa
     git clone https://github.com/suprabhatrijal/everwrite
     ```
 
-2. Download the Google Cloud Vision API JSON file.
+2. Create Google Cloud Platform account, create a Cloud Vision application and API JSON file.
 
-    * Name the file `cred.json` and place it in the project main directory.
+    * Name the file `cred.json` and place it in the project inside the assets directory.
+    * See this [medium article](https://medium.com/@annycarolinegnr/using-google-vision-api-22d1fdb755d8) for more information.
 
 3. Install Flutter if you haven't already, here is the [official installation page](https://docs.flutter.dev/get-started/install)
 
@@ -35,14 +36,14 @@ The app allows users to draw on multiple sheets of paper, which can be navigated
 ### Pen and Eraser
 Users can select different colors and pen sizes to draw with, as well as erase mistakes using the eraser tool.
 
-### Background Color
-The background color can be changed to any color of the user's choice.
+### Pen Color
+The pen color can be changed to any color of the user's choice.
 
-### Screenshots
-Users can take screenshots of their drawings using the app's built-in screenshot tool.
+### Paper Style
+The everwrite offers the user a choice with normal(blank) paper and grid paper.
 
-### Image Recognition
-The app can detect drawn objects using image recognition technology and display the name of the object on the screen.
+### Text Recognition
+The app can detect handwritten text using image recognition technology and display the correspond ascii characters on the screen.
 
 ## Acknowledgments
 
