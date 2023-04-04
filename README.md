@@ -41,9 +41,6 @@ The background color can be changed to any color of the user's choice.
 ### Screenshots
 Users can take screenshots of their drawings using the app's built-in screenshot tool.
 
-### Image Recognition
-The app can detect drawn objects using image recognition technology and display the name of the object on the screen.
-
 ## Acknowledgments
 
 This project was built using the following software and libraries:
